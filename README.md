@@ -12,3 +12,7 @@ https://cloudacademy.com/learning-paths/az-900-exam-preparation-microsoft-azure-
  Please go to this link for [Day001](https://github.com/mohlatif227/100DaysOfCloud/tree/main/Day001) progress.
 
 
+
+# Day02
+
+Here is the Day02 learning [Day02](Day002/)
