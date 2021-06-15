@@ -15,4 +15,4 @@ https://cloudacademy.com/learning-paths/az-900-exam-preparation-microsoft-azure-
 
 # Day02
 
-Here is the Day02 learning [Day02](Day002/)
+Here is the [Day02](Day002/) learning status
