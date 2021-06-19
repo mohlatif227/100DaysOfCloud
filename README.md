@@ -29,3 +29,7 @@ Here is the [Day004](Day004) leanrning status.
 # Day005
 
 Here is the [Day005](Day005) leanrning status.
+
+# Day006
+
+Here is the [Day006](Day006) leanrning status.
